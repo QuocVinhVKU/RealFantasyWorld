@@ -1,0 +1,1932 @@
+fileFormatVersion: 2
+guid: bb842fe46e994e6b903ffa8af9ae0f36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2383374510549020362
+    second: 001_throw_0
+  - first:
+      213: 6033632293996605468
+    second: 001_throw_1
+  - first:
+      213: -2938464177088159184
+    second: 001_throw_2
+  - first:
+      213: -9040803432853006322
+    second: 001_throw_3
+  - first:
+      213: 1541848326624112760
+    second: 001_throw_4
+  - first:
+      213: 5694021752754599188
+    second: 001_throw_5
+  - first:
+      213: 788394122811718619
+    second: 001_throw_6
+  - first:
+      213: 3623319992183671718
+    second: 001_throw_7
+  - first:
+      213: -6605203881904694677
+    second: 001_throw_8
+  - first:
+      213: -1301317016135858707
+    second: 001_throw_9
+  - first:
+      213: 1681099445189315897
+    second: 001_throw_10
+  - first:
+      213: -3431697706971946208
+    second: 001_throw_11
+  - first:
+      213: -5977337437010628004
+    second: 001_throw_12
+  - first:
+      213: -8913737775418976173
+    second: 001_throw_13
+  - first:
+      213: -8103057140086958138
+    second: 001_throw_14
+  - first:
+      213: -3717901734451149156
+    second: 001_throw_15
+  - first:
+      213: 7977631882030345382
+    second: 001_throw_16
+  - first:
+      213: -9105681890744500516
+    second: 001_throw_17
+  - first:
+      213: -7993675998898654267
+    second: 001_throw_18
+  - first:
+      213: -6325669337546310945
+    second: 001_throw_19
+  - first:
+      213: 1450595377553285122
+    second: 001_throw_20
+  - first:
+      213: -977332577152522154
+    second: 001_throw_21
+  - first:
+      213: -6249138237433854296
+    second: 001_throw_22
+  - first:
+      213: -9126699767688943964
+    second: 001_throw_23
+  - first:
+      213: 8008175820515642957
+    second: 001_throw_24
+  - first:
+      213: -8701917309840157190
+    second: 001_throw_25
+  - first:
+      213: -874471921718757122
+    second: 001_throw_26
+  - first:
+      213: 2835623432968927712
+    second: 001_throw_27
+  - first:
+      213: -2815828938320903900
+    second: 001_throw_28
+  - first:
+      213: -2666922418236335774
+    second: 001_throw_29
+  - first:
+      213: -4610479403771813582
+    second: 001_throw_30
+  - first:
+      213: -4549410800597915641
+    second: 001_throw_31
+  - first:
+      213: 5154617231096556726
+    second: 001_throw_32
+  - first:
+      213: 2911490069545021890
+    second: 001_throw_33
+  - first:
+      213: -5506491477282371479
+    second: 001_throw_34
+  - first:
+      213: 4327920592750895112
+    second: 001_throw_35
+  - first:
+      213: -2278626193785394645
+    second: 001_throw_36
+  - first:
+      213: 6641241070363284726
+    second: 001_throw_37
+  - first:
+      213: 4019256965963107916
+    second: 001_throw_38
+  - first:
+      213: -4998842335879011285
+    second: 001_throw_39
+  - first:
+      213: 1559750149164504083
+    second: 001_throw_40
+  - first:
+      213: -8229244800635088869
+    second: 001_throw_41
+  - first:
+      213: -3130472250409703428
+    second: 001_throw_42
+  - first:
+      213: 3556581890781139611
+    second: 001_throw_43
+  - first:
+      213: -6783457253827405882
+    second: 001_throw_44
+  - first:
+      213: -7799461441317840400
+    second: 001_throw_45
+  - first:
+      213: -8500152756542397344
+    second: 001_throw_46
+  - first:
+      213: 7229359548340483958
+    second: 001_throw_47
+  - first:
+      213: 5348059757485349432
+    second: 001_throw_48
+  - first:
+      213: 5649254770222845265
+    second: 001_throw_49
+  - first:
+      213: -2854869019750505453
+    second: 001_throw_50
+  - first:
+      213: 1133791237375317128
+    second: 001_throw_51
+  - first:
+      213: 1235403729319808703
+    second: 001_throw_52
+  - first:
+      213: 8155448934404455754
+    second: 001_throw_53
+  - first:
+      213: 8985303691865133964
+    second: 001_throw_54
+  - first:
+      213: -4448722271069279380
+    second: 001_throw_55
+  - first:
+      213: 7580001102413815101
+    second: 001_throw_56
+  - first:
+      213: 4185705571032530541
+    second: 001_throw_57
+  - first:
+      213: 1897468229622081864
+    second: 001_throw_58
+  - first:
+      213: 5902055385095453510
+    second: 001_throw_59
+  - first:
+      213: 2544130169632828992
+    second: throw_0
+  - first:
+      213: -7297984200238921576
+    second: throw_1
+  - first:
+      213: 8755176108708025568
+    second: throw_2
+  - first:
+      213: 7475913550696318055
+    second: throw_3
+  - first:
+      213: -319419866943039223
+    second: throw_4
+  - first:
+      213: -8164167306770339487
+    second: throw_5
+  - first:
+      213: 5099602639367076442
+    second: throw_6
+  - first:
+      213: 7449035972349807148
+    second: throw_7
+  - first:
+      213: 1793013179527250832
+    second: throw_8
+  - first:
+      213: -4005524255359431889
+    second: throw_9
+  - first:
+      213: -2724187673998375904
+    second: throw_10
+  - first:
+      213: 2346051482582994859
+    second: throw_11
+  - first:
+      213: -3173584474440625262
+    second: throw_12
+  - first:
+      213: -4075165713773203432
+    second: throw_13
+  - first:
+      213: -1652205557645181741
+    second: throw_14
+  - first:
+      213: 886679968540600488
+    second: throw_15
+  - first:
+      213: -2658391424570267846
+    second: throw_16
+  - first:
+      213: 7135426931759469987
+    second: throw_17
+  - first:
+      213: 3230324222547699299
+    second: throw_18
+  - first:
+      213: -2860144020660803459
+    second: throw_19
+  - first:
+      213: 5248913228100881631
+    second: throw_20
+  - first:
+      213: -3036288698280680874
+    second: throw_21
+  - first:
+      213: 8826643185466035085
+    second: throw_22
+  - first:
+      213: -8398666523667270345
+    second: throw_23
+  - first:
+      213: -2307833604273524801
+    second: throw_24
+  - first:
+      213: -1998651753562319891
+    second: throw_25
+  - first:
+      213: 8301405544166621947
+    second: throw_26
+  - first:
+      213: 858142634714042947
+    second: throw_27
+  - first:
+      213: 7227921719875936614
+    second: throw_28
+  - first:
+      213: 3256236852057821392
+    second: throw_29
+  - first:
+      213: 2458547653597713434
+    second: throw_30
+  - first:
+      213: -1240224541357051789
+    second: throw_31
+  - first:
+      213: -5450960352540575293
+    second: throw_32
+  - first:
+      213: 2216742161884704047
+    second: throw_33
+  - first:
+      213: 147192022818431890
+    second: throw_34
+  - first:
+      213: 2871375610342782011
+    second: throw_35
+  - first:
+      213: -5151252534875238920
+    second: throw_36
+  - first:
+      213: 1688216522995533614
+    second: throw_37
+  - first:
+      213: -5087960860256619247
+    second: throw_38
+  - first:
+      213: 2733217411235907288
+    second: throw_39
+  - first:
+      213: 4620445238017722208
+    second: throw_40
+  - first:
+      213: -449678405671400328
+    second: throw_41
+  - first:
+      213: 8440638976677751299
+    second: throw_42
+  - first:
+      213: -8816321976096059604
+    second: throw_43
+  - first:
+      213: -1295296832415131008
+    second: throw_44
+  - first:
+      213: -3691656804318987060
+    second: throw_45
+  - first:
+      213: 3531450983507933563
+    second: throw_46
+  - first:
+      213: 5143642266981639135
+    second: throw_47
+  - first:
+      213: 8299314138169403463
+    second: throw_48
+  - first:
+      213: 1225634884608713247
+    second: throw_49
+  - first:
+      213: -7717618200347034549
+    second: throw_50
+  - first:
+      213: 1414725137595264834
+    second: throw_51
+  - first:
+      213: 7006715298722049989
+    second: throw_52
+  - first:
+      213: 5196399631305025294
+    second: throw_53
+  - first:
+      213: -298583031906955347
+    second: throw_54
+  - first:
+      213: -618581583709926544
+    second: throw_55
+  - first:
+      213: 7935212221075162095
+    second: throw_56
+  - first:
+      213: 3854335236987130347
+    second: throw_57
+  - first:
+      213: -3562766000728226609
+    second: throw_58
+  - first:
+      213: 4905184004600747786
+    second: throw_59
+  - first:
+      213: 4183117545961554542
+    second: character_throw_0
+  - first:
+      213: 2233384579930149793
+    second: character_throw_1
+  - first:
+      213: -6248915184795517670
+    second: character_throw_2
+  - first:
+      213: -3533943640408180622
+    second: character_throw_3
+  - first:
+      213: -8859210216410764730
+    second: character_throw_4
+  - first:
+      213: -5286744520295626854
+    second: character_throw_5
+  - first:
+      213: -5037508744865511293
+    second: character_throw_6
+  - first:
+      213: -7270673958320998337
+    second: character_throw_7
+  - first:
+      213: 5062612468758554278
+    second: character_throw_8
+  - first:
+      213: -5223303728434384917
+    second: character_throw_9
+  - first:
+      213: 8276434833554611838
+    second: character_throw_10
+  - first:
+      213: 5460040327113216287
+    second: character_throw_11
+  - first:
+      213: 5878422847459668670
+    second: character_throw_12
+  - first:
+      213: 7624168633821220539
+    second: character_throw_13
+  - first:
+      213: -8336388466335350161
+    second: character_throw_14
+  - first:
+      213: -4817135467672886996
+    second: character_throw_15
+  - first:
+      213: 9184987376970743072
+    second: character_throw_16
+  - first:
+      213: -2190151006574798000
+    second: character_throw_17
+  - first:
+      213: 4642197344090726270
+    second: character_throw_18
+  - first:
+      213: -4779501796175148546
+    second: character_throw_19
+  - first:
+      213: 2150567428579696541
+    second: character_throw_20
+  - first:
+      213: 3449857383641465090
+    second: character_throw_21
+  - first:
+      213: -8460721331579335041
+    second: character_throw_22
+  - first:
+      213: 432479199569910800
+    second: character_throw_23
+  - first:
+      213: -589298709083424463
+    second: character_throw_24
+  - first:
+      213: -5492255734152245338
+    second: character_throw_25
+  - first:
+      213: -6871862525535727926
+    second: character_throw_26
+  - first:
+      213: 2798130820083499493
+    second: character_throw_27
+  - first:
+      213: 3381065137427985209
+    second: character_throw_28
+  - first:
+      213: 5361109799950473333
+    second: character_throw_29
+  - first:
+      213: 924681624336745245
+    second: character_throw_30
+  - first:
+      213: -3699981462856370316
+    second: character_throw_31
+  - first:
+      213: -164765389801961045
+    second: character_throw_32
+  - first:
+      213: 4613674153057914041
+    second: character_throw_33
+  - first:
+      213: -6998398462228358365
+    second: character_throw_34
+  - first:
+      213: 2960361338988625420
+    second: character_throw_35
+  - first:
+      213: -4896230398604286020
+    second: character_throw_36
+  - first:
+      213: 1997126566876197157
+    second: character_throw_37
+  - first:
+      213: 5866685678483163190
+    second: character_throw_38
+  - first:
+      213: 209921328930595730
+    second: character_throw_39
+  - first:
+      213: 3124451355158951450
+    second: character_throw_40
+  - first:
+      213: -1428082970660685824
+    second: character_throw_41
+  - first:
+      213: -5592427291760521947
+    second: character_throw_42
+  - first:
+      213: -1135359694562970983
+    second: character_throw_43
+  - first:
+      213: 5096456022471104397
+    second: character_throw_44
+  - first:
+      213: -6017275423258648030
+    second: character_throw_45
+  - first:
+      213: 6185491264044501625
+    second: character_throw_46
+  - first:
+      213: 3042599021091781206
+    second: character_throw_47
+  - first:
+      213: 6039080773245197773
+    second: character_throw_48
+  - first:
+      213: -4806297576958909222
+    second: character_throw_49
+  - first:
+      213: -6947739087132773583
+    second: character_throw_50
+  - first:
+      213: -3702159752441030045
+    second: character_throw_51
+  - first:
+      213: -5397852104108861437
+    second: character_throw_52
+  - first:
+      213: -6781668265276870021
+    second: character_throw_53
+  - first:
+      213: 3031316581057244076
+    second: character_throw_54
+  - first:
+      213: 7361330806529152803
+    second: character_throw_55
+  - first:
+      213: -2714165775256478070
+    second: character_throw_56
+  - first:
+      213: -2613722248283299436
+    second: character_throw_57
+  - first:
+      213: -6687545908330834685
+    second: character_throw_58
+  - first:
+      213: -8951810902332350605
+    second: character_throw_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_throw_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e620eb4be3b6d0a30800000000000000
+      internalID: 4183117545961554542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3529541739efe10800000000000000
+      internalID: 2233384579930149793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1df7b26fb46749a0800000000000000
+      internalID: -6248915184795517670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27838319bf8e4fec0800000000000000
+      internalID: -3533943640408180622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a235c0f33cd0580800000000000000
+      internalID: -8859210216410764730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_5
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9749818ed5b1a6b0800000000000000
+      internalID: -5286744520295626854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_6
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3880e558c7c271ab0800000000000000
+      internalID: -5037508744865511293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_7
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38f79c7e80691b90800000000000000
+      internalID: -7270673958320998337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_8
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a621dba733024640800000000000000
+      internalID: 5062612468758554278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_9
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befe1b8eee81387b0800000000000000
+      internalID: -5223303728434384917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_10
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e11b471adcbd270800000000000000
+      internalID: 8276434833554611838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1114ecbfb5f5cb40800000000000000
+      internalID: 5460040327113216287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2bf5e3f6a549150800000000000000
+      internalID: 5878422847459668670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbec6965afc7ec960800000000000000
+      internalID: 7624168633821220539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f620b62abd23f4c80800000000000000
+      internalID: -8336388466335350161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c212c6e70d8162db0800000000000000
+      internalID: -4817135467672886996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_16
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02db9ceea51a77f70800000000000000
+      internalID: 9184987376970743072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_17
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b15a073450b91e0800000000000000
+      internalID: -2190151006574798000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_18
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f1ac793e56c6040800000000000000
+      internalID: 4642197344090726270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_19
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef983a3707ccbadb0800000000000000
+      internalID: -4779501796175148546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_20
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f940e9ea958dd10800000000000000
+      internalID: 2150567428579696541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_21
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20145b5230b50ef20800000000000000
+      internalID: 3449857383641465090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ec4a796ca759a80800000000000000
+      internalID: -8460721331579335041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 900
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c1c176a89700600800000000000000
+      internalID: 432479199569910800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 900
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1397c7242f362d7f0800000000000000
+      internalID: -589298709083424463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 900
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afc04e428697c3b0800000000000000
+      internalID: -5492255734152245338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 900
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acecf14117d32a0a0800000000000000
+      internalID: -6871862525535727926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_27
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1462ed725f4d620800000000000000
+      internalID: 2798130820083499493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_28
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 900
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9333ade24d4fbee20800000000000000
+      internalID: 3381065137427985209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_29
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 900
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d9eb65fc766a40800000000000000
+      internalID: 5361109799950473333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_30
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 900
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d134ce4c90125dc00800000000000000
+      internalID: 924681624336745245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_31
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 900
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4777aee767607acc0800000000000000
+      internalID: -3699981462856370316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_32
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 900
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9439d30c2a6bdf0800000000000000
+      internalID: -164765389801961045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc0b6aa230170040800000000000000
+      internalID: 4613674153057914041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 600
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b1d3e7da1b0ee90800000000000000
+      internalID: -6998398462228358365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 600
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e773104f0551920800000000000000
+      internalID: 2960361338988625420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 600
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7e8b0d4681d0cb0800000000000000
+      internalID: -4896230398604286020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_37
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 600
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521b626080837bb10800000000000000
+      internalID: 1997126566876197157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6384cd2aa87aa6150800000000000000
+      internalID: 5866685678483163190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 600
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293afa1265ac9e200800000000000000
+      internalID: 209921328930595730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_40
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 600
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16bc3614f74c5b20800000000000000
+      internalID: 3124451355158951450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_41
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 600
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0083cffba1e6e2ce0800000000000000
+      internalID: -1428082970660685824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_42
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 600
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d0a621205b362b0800000000000000
+      internalID: -5592427291760521947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_43
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 600
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99237498f546e30f0800000000000000
+      internalID: -1135359694562970983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d875ac010cf3ab640800000000000000
+      internalID: 5096456022471104397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 300
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222eaf822e75e7ca0800000000000000
+      internalID: -6017275423258648030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_46
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 300
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a87a2588747d550800000000000000
+      internalID: 6185491264044501625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_47
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 300
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a702670bb793a20800000000000000
+      internalID: 3042599021091781206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_48
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 300
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcddb2387ff1fc350800000000000000
+      internalID: 6039080773245197773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_49
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad42b8091d99c4db0800000000000000
+      internalID: -4806297576958909222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_50
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 300
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133ba576c1ca49f90800000000000000
+      internalID: -6947739087132773583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_51
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 300
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a110ee1594f9cc0800000000000000
+      internalID: -3702159752441030045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_52
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 300
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3081f704c1af615b0800000000000000
+      internalID: -5397852104108861437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_53
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 300
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72f1afb4aca2e1a0800000000000000
+      internalID: -6781668265276870021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_54
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 300
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab2bafae56611a20800000000000000
+      internalID: 3031316581057244076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3275f45dd53b82660800000000000000
+      internalID: 7361330806529152803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_56
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e90509b98555ad0800000000000000
+      internalID: -2714165775256478070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491e98996713abbd0800000000000000
+      internalID: -2613722248283299436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_58
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305d2d2bd601133a0800000000000000
+      internalID: -6687545908330834685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_throw_59
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 360
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fd20eb967c4c380800000000000000
+      internalID: -8951810902332350605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

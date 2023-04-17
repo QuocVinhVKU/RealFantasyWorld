@@ -1,0 +1,1518 @@
+fileFormatVersion: 2
+guid: 859caa1337f1497c857b71771e7c5295
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3247820686295558439
+    second: Basic_sycthe_0
+  - first:
+      213: -7748496610764895007
+    second: Basic_sycthe_1
+  - first:
+      213: -1308981023085603408
+    second: Basic_sycthe_2
+  - first:
+      213: -3230635939044093600
+    second: Basic_sycthe_3
+  - first:
+      213: -1122227185421730157
+    second: Basic_sycthe_4
+  - first:
+      213: -77209495275816394
+    second: Basic_sycthe_5
+  - first:
+      213: 3223901939305944811
+    second: Basic_sycthe_6
+  - first:
+      213: -2581233314474048982
+    second: Basic_sycthe_7
+  - first:
+      213: 5445286938174499961
+    second: Basic_sycthe_8
+  - first:
+      213: -4068812281389322122
+    second: Basic_sycthe_9
+  - first:
+      213: 768151090360678410
+    second: Basic_sycthe_10
+  - first:
+      213: -6913835285068868548
+    second: Basic_sycthe_11
+  - first:
+      213: -5817322660753084176
+    second: Basic_sycthe_12
+  - first:
+      213: -3185428444707487868
+    second: Basic_sycthe_13
+  - first:
+      213: -7243227616147128189
+    second: Basic_sycthe_14
+  - first:
+      213: 6035154290650539630
+    second: Basic_sycthe_15
+  - first:
+      213: -5926045887789248290
+    second: Basic_sycthe_16
+  - first:
+      213: 6220935477128835450
+    second: Basic_sycthe_17
+  - first:
+      213: -6869342011969347550
+    second: Basic_sycthe_18
+  - first:
+      213: 4165497732598155595
+    second: Basic_sycthe_19
+  - first:
+      213: 5254501809698787485
+    second: Basic_sycthe_20
+  - first:
+      213: -1258035610855781880
+    second: Basic_sycthe_21
+  - first:
+      213: 4422863474228924731
+    second: Basic_sycthe_22
+  - first:
+      213: -4900827600687946488
+    second: Basic_sycthe_23
+  - first:
+      213: 3163750157638882912
+    second: Basic_sycthe_24
+  - first:
+      213: -842155267482149195
+    second: Basic_sycthe_25
+  - first:
+      213: 5750617213736850797
+    second: Basic_sycthe_26
+  - first:
+      213: -576935284924612121
+    second: Basic_sycthe_27
+  - first:
+      213: 2907161240885754956
+    second: Basic_sycthe_28
+  - first:
+      213: 4498667934120282385
+    second: Basic_sycthe_29
+  - first:
+      213: -5089043187463401627
+    second: Basic_sycthe_30
+  - first:
+      213: 7030143774710556979
+    second: Basic_sycthe_31
+  - first:
+      213: 904957286946662547
+    second: Basic_sycthe_32
+  - first:
+      213: -6314408100389386864
+    second: Basic_sycthe_33
+  - first:
+      213: 2980109767706326599
+    second: Basic_sycthe_34
+  - first:
+      213: -3586948291369571890
+    second: Basic_sycthe_35
+  - first:
+      213: 9194161137460886560
+    second: Basic_sycthe_36
+  - first:
+      213: 1011356022052499083
+    second: Basic_sycthe_37
+  - first:
+      213: -7241439379250529736
+    second: Basic_sycthe_38
+  - first:
+      213: 2281702669984615352
+    second: Basic_sycthe_39
+  - first:
+      213: 2910855697131295161
+    second: Basic_sycthe_40
+  - first:
+      213: -7528737661836008131
+    second: Basic_sycthe_41
+  - first:
+      213: -8767613908033452141
+    second: Basic_sycthe_0
+  - first:
+      213: -8734859517318440750
+    second: Basic_sycthe_1
+  - first:
+      213: 4044640784754798104
+    second: Basic_sycthe_2
+  - first:
+      213: -7529706742887022977
+    second: Basic_sycthe_3
+  - first:
+      213: -5717339404846049306
+    second: Basic_sycthe_4
+  - first:
+      213: 8425400138732571438
+    second: Basic_sycthe_5
+  - first:
+      213: -9065040074072665490
+    second: Basic_sycthe_6
+  - first:
+      213: 2911469080716509166
+    second: Basic_sycthe_7
+  - first:
+      213: -2434575772320770336
+    second: Basic_sycthe_8
+  - first:
+      213: 8388756034827779366
+    second: Basic_sycthe_9
+  - first:
+      213: 2038441055323534282
+    second: Basic_sycthe_10
+  - first:
+      213: 8126719232915880106
+    second: Basic_sycthe_11
+  - first:
+      213: -3934159912003194452
+    second: Basic_sycthe_12
+  - first:
+      213: 340981221933490452
+    second: Basic_sycthe_13
+  - first:
+      213: -8720408284934354369
+    second: Basic_sycthe_14
+  - first:
+      213: 3925014676641283892
+    second: Basic_sycthe_15
+  - first:
+      213: 8664606934167495265
+    second: Basic_sycthe_16
+  - first:
+      213: -7360045550234026094
+    second: Basic_sycthe_17
+  - first:
+      213: 7023668188023065689
+    second: Basic_sycthe_18
+  - first:
+      213: 8427345786341741117
+    second: Basic_sycthe_19
+  - first:
+      213: 8063299510559222146
+    second: Basic_sycthe_20
+  - first:
+      213: -4845019187738498635
+    second: Basic_sycthe_21
+  - first:
+      213: -1078962330028874448
+    second: Basic_sycthe_22
+  - first:
+      213: -9161586470094728758
+    second: Basic_sycthe_23
+  - first:
+      213: -1143268278788094268
+    second: Basic_sycthe_24
+  - first:
+      213: -1371649125705885573
+    second: Basic_sycthe_25
+  - first:
+      213: -6093495271906248324
+    second: Basic_sycthe_26
+  - first:
+      213: -3088523260972027776
+    second: Basic_sycthe_27
+  - first:
+      213: 1757123445750286854
+    second: Basic_sycthe_28
+  - first:
+      213: -2955356009877035237
+    second: Basic_sycthe_29
+  - first:
+      213: -4926876806665896220
+    second: Basic_sycthe_30
+  - first:
+      213: 5748557055570102484
+    second: Basic_sycthe_31
+  - first:
+      213: 2275287130354011067
+    second: Basic_sycthe_32
+  - first:
+      213: -7518592560267447345
+    second: Basic_sycthe_33
+  - first:
+      213: -2283236301108219215
+    second: Basic_sycthe_34
+  - first:
+      213: -8009009556950883808
+    second: Basic_sycthe_35
+  - first:
+      213: -4008433642789079276
+    second: Basic_sycthe_36
+  - first:
+      213: 620774294297962543
+    second: Basic_sycthe_37
+  - first:
+      213: 2902876387874046027
+    second: Basic_sycthe_38
+  - first:
+      213: -1101332217501005180
+    second: Basic_sycthe_39
+  - first:
+      213: 3341543640082908734
+    second: Basic_sycthe_40
+  - first:
+      213: 8899846547565311433
+    second: Basic_sycthe_41
+  - first:
+      213: -5976516271593428564
+    second: sycthe_0
+  - first:
+      213: 8662598778089055751
+    second: sycthe_1
+  - first:
+      213: 6526560423545924460
+    second: sycthe_2
+  - first:
+      213: 1952950570906857887
+    second: sycthe_3
+  - first:
+      213: -2738644331847009788
+    second: sycthe_4
+  - first:
+      213: -8149644795044491681
+    second: sycthe_5
+  - first:
+      213: 7527427152574064779
+    second: sycthe_6
+  - first:
+      213: -636152645787474920
+    second: sycthe_7
+  - first:
+      213: 7970160491953025584
+    second: sycthe_8
+  - first:
+      213: -4504328170665831972
+    second: sycthe_9
+  - first:
+      213: -7656658776567591411
+    second: sycthe_10
+  - first:
+      213: -759676923923610869
+    second: sycthe_11
+  - first:
+      213: 2628395139614331280
+    second: sycthe_12
+  - first:
+      213: -2666848823366182010
+    second: sycthe_13
+  - first:
+      213: 6745060519572138876
+    second: sycthe_14
+  - first:
+      213: 900508438662086951
+    second: sycthe_15
+  - first:
+      213: 8988884014453388158
+    second: sycthe_16
+  - first:
+      213: 7202982966939657391
+    second: sycthe_17
+  - first:
+      213: 2038944566991928539
+    second: sycthe_18
+  - first:
+      213: -4922635318282854635
+    second: sycthe_19
+  - first:
+      213: -4202114354011689938
+    second: sycthe_20
+  - first:
+      213: -3346850880706413595
+    second: sycthe_21
+  - first:
+      213: -8711462194814475163
+    second: sycthe_22
+  - first:
+      213: -5951282790030272114
+    second: sycthe_23
+  - first:
+      213: -8582932058158570037
+    second: sycthe_24
+  - first:
+      213: 6947398329454530014
+    second: sycthe_25
+  - first:
+      213: 4100782595488407050
+    second: sycthe_26
+  - first:
+      213: 7496864446501981665
+    second: sycthe_27
+  - first:
+      213: 4351883094295125134
+    second: sycthe_28
+  - first:
+      213: -3147562761434260297
+    second: sycthe_29
+  - first:
+      213: 5271233965992962486
+    second: sycthe_30
+  - first:
+      213: -72464124490576953
+    second: sycthe_31
+  - first:
+      213: 324389865638779872
+    second: sycthe_32
+  - first:
+      213: 8371752212126837885
+    second: sycthe_33
+  - first:
+      213: -3550559474533410453
+    second: sycthe_34
+  - first:
+      213: -7660340711354360067
+    second: sycthe_35
+  - first:
+      213: -8144300515171768858
+    second: sycthe_36
+  - first:
+      213: -4951674318462507771
+    second: sycthe_37
+  - first:
+      213: -5265600982015582414
+    second: sycthe_38
+  - first:
+      213: -7358934556041562993
+    second: sycthe_39
+  - first:
+      213: -6226660766960166479
+    second: sycthe_40
+  - first:
+      213: -1433540493709526968
+    second: sycthe_41
+  - first:
+      213: 8213825600424015896
+    second: weapon_sycthe_0
+  - first:
+      213: 2144812397677350663
+    second: weapon_sycthe_1
+  - first:
+      213: -1947293525316306175
+    second: weapon_sycthe_2
+  - first:
+      213: -7846676365991469467
+    second: weapon_sycthe_3
+  - first:
+      213: 8819745358774855068
+    second: weapon_sycthe_4
+  - first:
+      213: -4294002183982165220
+    second: weapon_sycthe_5
+  - first:
+      213: 1999555038106641816
+    second: weapon_sycthe_6
+  - first:
+      213: -948012959936314777
+    second: weapon_sycthe_7
+  - first:
+      213: 1275520874429384723
+    second: weapon_sycthe_8
+  - first:
+      213: 3139220155727647746
+    second: weapon_sycthe_9
+  - first:
+      213: -3028612467869686647
+    second: weapon_sycthe_10
+  - first:
+      213: 3027384316812861672
+    second: weapon_sycthe_11
+  - first:
+      213: -4463461922082125233
+    second: weapon_sycthe_12
+  - first:
+      213: -6611899298521117164
+    second: weapon_sycthe_13
+  - first:
+      213: 7710878439433797212
+    second: weapon_sycthe_14
+  - first:
+      213: -6595110047303911909
+    second: weapon_sycthe_15
+  - first:
+      213: 2504285718240539418
+    second: weapon_sycthe_16
+  - first:
+      213: -1111965146448490300
+    second: weapon_sycthe_17
+  - first:
+      213: -2572146626887508382
+    second: weapon_sycthe_18
+  - first:
+      213: 5974924863746161625
+    second: weapon_sycthe_19
+  - first:
+      213: 6874843314895542813
+    second: weapon_sycthe_20
+  - first:
+      213: 2062535284386268880
+    second: weapon_sycthe_21
+  - first:
+      213: 4874451048550059787
+    second: weapon_sycthe_22
+  - first:
+      213: -7790708956419372521
+    second: weapon_sycthe_23
+  - first:
+      213: 939378273912962907
+    second: weapon_sycthe_24
+  - first:
+      213: 8581961877866333733
+    second: weapon_sycthe_25
+  - first:
+      213: 2314144547186037153
+    second: weapon_sycthe_26
+  - first:
+      213: 6155476596923630524
+    second: weapon_sycthe_27
+  - first:
+      213: 1323395181261460619
+    second: weapon_sycthe_28
+  - first:
+      213: 1862908196977371969
+    second: weapon_sycthe_29
+  - first:
+      213: 4635486463605478145
+    second: weapon_sycthe_30
+  - first:
+      213: -3973236784382905036
+    second: weapon_sycthe_31
+  - first:
+      213: -4361486870935426905
+    second: weapon_sycthe_32
+  - first:
+      213: 8425416980797178921
+    second: weapon_sycthe_33
+  - first:
+      213: 4880084905720555763
+    second: weapon_sycthe_34
+  - first:
+      213: -4406625181431634206
+    second: weapon_sycthe_35
+  - first:
+      213: 4416790970876039360
+    second: weapon_sycthe_36
+  - first:
+      213: 3682940576824082241
+    second: weapon_sycthe_37
+  - first:
+      213: -7517440242657943544
+    second: weapon_sycthe_38
+  - first:
+      213: -3155225590870575170
+    second: weapon_sycthe_39
+  - first:
+      213: 1925124151963585303
+    second: weapon_sycthe_40
+  - first:
+      213: -7746507771448440979
+    second: weapon_sycthe_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weapon_sycthe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81878486dde5df170800000000000000
+      internalID: 8213825600424015896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f89611387e3cd10800000000000000
+      internalID: 2144812397677350663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_2
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b7a1e1bd2d9f4e0800000000000000
+      internalID: -1947293525316306175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_3
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e10a92b610b1390800000000000000
+      internalID: -7846676365991469467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_4
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95ec2fbca7066a70800000000000000
+      internalID: 8819745358774855068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_5
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13ddf6a3c3a864c0800000000000000
+      internalID: -4294002183982165220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_6
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895603b86b8dfbb10800000000000000
+      internalID: 1999555038106641816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_7
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76287885c3bf7d2f0800000000000000
+      internalID: -948012959936314777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_8
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31885ff2a7f83b110800000000000000
+      internalID: 1275520874429384723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20494ed6910c09b20800000000000000
+      internalID: 3139220155727647746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984ee4ab10538f5d0800000000000000
+      internalID: -3028612467869686647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e028321ffd630a20800000000000000
+      internalID: 3027384316812861672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_12
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a00d1c7099e02c0800000000000000
+      internalID: -4463461922082125233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_13
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e8efc8e90dd34a0800000000000000
+      internalID: -6611899298521117164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_14
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e7ba0361b820b60800000000000000
+      internalID: 7710878439433797212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_15
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1637d7ba567974a0800000000000000
+      internalID: -6595110047303911909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_16
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13bfcba79201c220800000000000000
+      internalID: 2504285718240539418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_17
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0925b37918190f0800000000000000
+      internalID: -1111965146448490300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e962a4546ed4cd0800000000000000
+      internalID: -2572146626887508382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 864
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db3d3fc1823be250800000000000000
+      internalID: 5974924863746161625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_20
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 864
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a51d60299586f50800000000000000
+      internalID: 6874843314895542813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 864
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d68d82d9e89f9c10800000000000000
+      internalID: 2062535284386268880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_22
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 864
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f4bd7176785a340800000000000000
+      internalID: 4874451048550059787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_23
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 864
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a4b282b77d1e390800000000000000
+      internalID: -7790708956419372521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_24
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 864
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f3d462097590d00800000000000000
+      internalID: 939378273912962907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_25
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 864
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526ca26dbd0491770800000000000000
+      internalID: 8581961877866333733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_26
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 864
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a15eed643e7d1020800000000000000
+      internalID: 2314144547186037153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb30dde0a55ac6550800000000000000
+      internalID: 6155476596923630524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 432
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b849d8cd7e4ad5210800000000000000
+      internalID: 1323395181261460619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_29
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 432
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14beff192216ad910800000000000000
+      internalID: 1862908196977371969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_30
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 432
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1031658f06e845040800000000000000
+      internalID: 4635486463605478145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 432
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435775a123a3cd8c0800000000000000
+      internalID: -3973236784382905036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_32
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 432
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a82d5d8cc2e873c0800000000000000
+      internalID: -4361486870935426905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_33
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 432
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924c5f0ba181de470800000000000000
+      internalID: 8425416980797178921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_34
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 432
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8283fad5b89b340800000000000000
+      internalID: 4880084905720555763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_35
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 432
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6e97aaeb588d2c0800000000000000
+      internalID: -4406625181431634206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c01832acf79b4d30800000000000000
+      internalID: 4416790970876039360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fb87a01fe6c1330800000000000000
+      internalID: 3682940576824082241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_38
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800a52cadefaca790800000000000000
+      internalID: -7517440242657943544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_39
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7ffedca036634d0800000000000000
+      internalID: -3155225590870575170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_40
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b805a673a67ba10800000000000000
+      internalID: 1925124151963585303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_41
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 448
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6743018930ee7490800000000000000
+      internalID: -7746507771448440979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
