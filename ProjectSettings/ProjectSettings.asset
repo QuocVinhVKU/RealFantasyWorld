@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Normal Life In The World Of RPG
+  productName: Real Fantasy World
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
@@ -662,11 +662,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 7123cdc1-140d-4536-b08b-f92917c7eca0
+  cloudProjectId: c46fe279-b171-4eb1-b34f-20a119a5ce58
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Normal Life In The World Of RPG
-  organizationId: unity_e86a48850fda720d07b0
+  organizationId: dangquocvinh02112001
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   virtualTexturingSupportEnabled: 0

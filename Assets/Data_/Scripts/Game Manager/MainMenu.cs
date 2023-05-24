@@ -20,7 +20,7 @@ public class MainMenu : MonoBehaviour
     public void NewGame()
     {
         //Screen.fullScreen = !Screen.fullScreen;
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("OpeningCutScene");
     }
     public void ExitGame()
     {
